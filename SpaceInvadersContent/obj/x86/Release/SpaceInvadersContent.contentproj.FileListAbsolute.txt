@@ -1,0 +1,4 @@
+I:\315\Project1\Phase3\SpaceInvaders\SpaceInvaders\SpaceInvadersContent\obj\x86\Release\ResolveAssemblyReference.cache
+H:\315\Project1\Phase3\SpaceInvaders\SpaceInvaders\SpaceInvadersContent\obj\x86\Release\ResolveAssemblyReference.cache
+G:\315\Project1\Phase3.5\SpaceInvaders\SpaceInvaders\SpaceInvadersContent\obj\x86\Release\ResolveAssemblyReference.cache
+I:\315\Project1\Phase3.5\SpaceInvaders\SpaceInvaders\SpaceInvadersContent\obj\x86\Release\ResolveAssemblyReference.cache

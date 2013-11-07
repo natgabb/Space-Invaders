@@ -1,0 +1,13 @@
+Content\player.xnb
+Content\bug1.xnb
+Content\flyingsaucer1.xnb
+Content\satellite1.xnb
+Content\spaceship1.xnb
+Content\laser1.xnb
+Content\laser2.xnb
+Content\health.xnb
+Content\spaceship2.xnb
+Content\mothership.xnb
+Content\motherShipBombs.xnb
+Content\bonus1.xnb
+Content\scoreFont.xnb
